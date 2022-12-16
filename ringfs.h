@@ -16,7 +16,7 @@
 
 #include <stdint.h>
 #include <stdio.h>
-#include <unistd.h>
+#include <sys/types.h>
 
 /**
  * Flash memory+parition descriptor.
